@@ -1,0 +1,7 @@
+Hi Peter,
+
+Als je dit in je web browser wil bekijken (wat er een stuk beter uit ziet), ga dan naar 
+
+https://github.com/Mathuiss/data_mining/blob/master/regression.ipynb
+
+Dit is de file waar alles in staat :P
